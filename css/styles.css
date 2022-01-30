@@ -102,3 +102,18 @@ Download Buttons */
   width:15%;
   margin: 20px 20px 50px;
 }
+
+/* Pricing display */
+.card{
+     background-color: #F94892;
+}
+.card-body{
+   background-color: #FFA1C9;
+}
+.card_titles{
+    background-color: #FBE5E5;
+}
+.card-header
+{
+     background-color: #FBE5E5;
+}
